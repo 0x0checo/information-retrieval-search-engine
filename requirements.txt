@@ -1,0 +1,5 @@
+pandas
+numpy
+classla
+sentence_transformers
+torch>=2.0
